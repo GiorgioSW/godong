@@ -1,0 +1,225 @@
+[33mcommit 2ca7c0d04b5f02972b6ff64f227528445250ecd3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 25a2c9c 9dedc6e
+Author: Koong <koongsurya@gmail.com>
+Date:   Wed Dec 8 21:49:25 2021 +0700
+
+    Merge remote-tracking branch 'origin/surya' into main
+
+[33mcommit 9dedc6e47f9c09df65af68e199f2140d478be5bb[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Wed Dec 8 21:47:51 2021 +0700
+
+    actuator scheduler
+
+[33mcommit f4b09dc1e84e72e83ca605558ce16b225b620026[m
+Merge: 5e61078 25a2c9c
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Dec 3 16:17:47 2021 +0700
+
+    Merge remote-tracking branch 'origin/main' into surya
+
+[33mcommit 5e6107856aa42493ac1ea9eca43104f73bb97715[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Mon Nov 29 17:52:48 2021 +0700
+
+    surya/bug fix
+
+[33mcommit b93eca64b9a5a6f37db2b565ff40f7de6fe7c01d[m
+Merge: 26c051a cfd9de6
+Author: Koong <koongsurya@gmail.com>
+Date:   Mon Nov 29 17:49:55 2021 +0700
+
+    Merge remote-tracking branch 'origin/surya' into surya
+
+[33mcommit 25a2c9c6461593798a7b0d91f0cf0825314bef16[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Fri Nov 19 19:29:41 2021 +0700
+
+    read actuator condition (untested)
+
+[33mcommit ae7d0fae078ee17cd400217d16788dd82944b881[m
+Merge: 4e73f64 4068ef2
+Author: johandi <limjohandi@gmail.com>
+Date:   Fri Nov 19 16:59:11 2021 +0700
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit 4068ef2d2832b55bf273b147e21327b1eac754f3[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 16:20:22 2021 +0700
+
+    fix bug
+
+[33mcommit 26c051aa718ac81fea166e670918952efe986055[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 15:54:35 2021 +0700
+
+    scheduler-waterflow fix
+
+[33mcommit 9ac19d8f5feb81861ee6e36f877645e0a9bbf446[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 13:04:33 2021 +0700
+
+    Auto stash before merge of "surya" and "origin/surya"
+
+[33mcommit cfd9de6d1e4c771fb4af4f0e160a4890c1a8ed92[m
+Merge: 76e7283 89984ea
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 13:08:16 2021 +0700
+
+    Merge remote-tracking branch 'origin/surya' into surya
+
+[33mcommit 76e728336954bc0cee951aea07a37d9c16a0ab1f[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 13:04:33 2021 +0700
+
+    Auto stash before merge of "surya" and "origin/surya"
+
+[33mcommit c76d3254f8bcc3b65e63cd4d0cb6e50546354f9d[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Nov 19 13:01:11 2021 +0700
+
+    surya/scheduler-waterflow fix
+
+[33mcommit 89984eac47ea7dfecc41f41795c913dc983e2e67[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Oct 29 18:07:25 2021 +0700
+
+    surya/waterflow bugs 2
+
+[33mcommit a9a5e8266261976a6e63727995d55c0442bbed0a[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Fri Oct 29 18:02:44 2021 +0700
+
+    surya/waterflow bug
+
+[33mcommit 4e73f64bc136c66dc57fb4839218ff13f1893d3b[m
+Merge: 4ed60a5 943f6bc
+Author: johandi <limjohandi@gmail.com>
+Date:   Mon Oct 25 08:46:11 2021 +0700
+
+    Merge remote-tracking branch 'origin/surya' into main
+
+[33mcommit 943f6bc656fb1cbf1c8c568a1f0d3f7b76d07e61[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Sat Oct 23 21:50:08 2021 +0700
+
+    surya/test all
+
+[33mcommit dc6a2df20d345fda058583dd74b565efd1aaeec9[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Sat Oct 23 20:41:44 2021 +0700
+
+    fix bugs
+
+[33mcommit 516a1b2c959d6a48c3892fb4352726ec6fc47615[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Sat Oct 23 18:54:02 2021 +0700
+
+    tested rtc
+
+[33mcommit b2fda1f9469aac0b8f9b3e16c1cefdba3ff277da[m
+Merge: 607d8e1 4ed60a5
+Author: Koong <koongsurya@gmail.com>
+Date:   Sat Oct 23 17:42:14 2021 +0700
+
+    Merge remote-tracking branch 'origin/main' into surya
+
+[33mcommit 607d8e1b11fbfff6212a2e9ac40ba7085d931444[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Sat Oct 23 17:39:59 2021 +0700
+
+    fix bugs
+
+[33mcommit 4ed60a586016e9803947d658527c87b9b2bc2b63[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Sat Oct 23 11:42:01 2021 +0700
+
+    fix some bugs
+
+[33mcommit 3f7ffda235684da5766dfc0dbb570e01f8a0315c[m
+Merge: d6bc901 995234b
+Author: johandi <limjohandi@gmail.com>
+Date:   Sat Oct 23 11:19:48 2021 +0700
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit d6bc90177f1496d9dd1a2d622be5e73785870c73[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Sat Oct 23 11:19:19 2021 +0700
+
+    add library to repository
+
+[33mcommit 995234bc72c7158ff40dd80c011149fc1eeb252a[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Fri Oct 22 01:08:09 2021 +0700
+
+    communications
+    
+    >Modified
+      - recreate eeprom function from class eeprom
+    >Added
+      - added communication functions
+
+[33mcommit 5f23d2f4a3aa24c466d3768fa49e9c5ea83c780c[m
+Merge: 70c451f ce340b1
+Author: johandi <limjohandi@gmail.com>
+Date:   Mon Oct 18 23:38:23 2021 +0700
+
+    Merge remote-tracking branch 'origin/surya' into main
+
+[33mcommit ce340b1d23c840978a029bde7319575af86b241d[m
+Author: Koong <koongsurya@gmail.com>
+Date:   Mon Oct 18 23:37:17 2021 +0700
+
+    Added class cabinet
+    
+    Added class cabinet
+
+[33mcommit 70c451f3241a9e77e3f4f275895027d6f6d9137e[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Mon Oct 18 03:22:53 2021 +0700
+
+    Added class Rack
+    
+    > Modified class
+       - Modified Srf structure width and length parameter needed
+       - added class Rack
+    > Ignore
+       - Ignore Setting.json
+
+[33mcommit 07eae41dd3ab33d506ec26b3697c6a60b67f011d[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Mon Oct 18 02:16:09 2021 +0700
+
+    Added Srf
+    
+    > Modified Function
+       - delete static
+    > Added Class
+       - added Srf class
+
+[33mcommit 23ce74b9f37dcaf6568fc9e55482c8ef507b6dee[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Sun Oct 17 10:04:39 2021 +0700
+
+    added dht, lux, relay
+    
+    > Modified
+       - Modified rtc structure
+       - Using calloc for dynamic memories
+    > need test
+       - relay change
+       - rtc get time
+
+[33mcommit fcedb4c425530f042a6691675ab369a1d2a6fea8[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Sat Oct 16 09:44:25 2021 +0700
+
+    Init
+
+[33mcommit 8b2141af1fde0fd80adf4dfe7ab6094662597200[m
+Author: johandi <limjohandi@gmail.com>
+Date:   Sat Oct 16 09:43:26 2021 +0700
+
+    Initial commit
